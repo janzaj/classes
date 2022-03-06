@@ -21,4 +21,8 @@ num1 = ComplexNumber(2,3)
 
 num1.get_data()
 
+class test:
+    def __init__(self, string : str):
+        print(string)
+
 
